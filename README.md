@@ -1,7 +1,7 @@
 # Petlify
 Servicio de transporte y productos a domicilio, para las mascotas
 
-# [Logo]
+![petlify-logo](images/Petlify-Logo.png)
 
 ## Motivacion
 Actualmente existen aplicaciones que brindan servicio de transporte, envios y de pedidos de comida a domicilio, pero tomando en cuenta unicamente a las personas como usuario final.
